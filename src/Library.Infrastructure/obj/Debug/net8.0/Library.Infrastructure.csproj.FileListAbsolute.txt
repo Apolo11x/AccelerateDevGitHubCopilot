@@ -1,0 +1,16 @@
+/home/JSanchez/Documentos/KC/00-GitHubCopilot/GuidedProjectApp/AccelerateDevGitHubCopilot/src/Library.Infrastructure/bin/Debug/net8.0/Library.Infrastructure.deps.json
+/home/JSanchez/Documentos/KC/00-GitHubCopilot/GuidedProjectApp/AccelerateDevGitHubCopilot/src/Library.Infrastructure/bin/Debug/net8.0/Library.Infrastructure.dll
+/home/JSanchez/Documentos/KC/00-GitHubCopilot/GuidedProjectApp/AccelerateDevGitHubCopilot/src/Library.Infrastructure/bin/Debug/net8.0/Library.Infrastructure.pdb
+/home/JSanchez/Documentos/KC/00-GitHubCopilot/GuidedProjectApp/AccelerateDevGitHubCopilot/src/Library.Infrastructure/bin/Debug/net8.0/Library.ApplicationCore.dll
+/home/JSanchez/Documentos/KC/00-GitHubCopilot/GuidedProjectApp/AccelerateDevGitHubCopilot/src/Library.Infrastructure/bin/Debug/net8.0/Library.ApplicationCore.pdb
+/home/JSanchez/Documentos/KC/00-GitHubCopilot/GuidedProjectApp/AccelerateDevGitHubCopilot/src/Library.Infrastructure/obj/Debug/net8.0/Library.Infrastructure.csproj.AssemblyReference.cache
+/home/JSanchez/Documentos/KC/00-GitHubCopilot/GuidedProjectApp/AccelerateDevGitHubCopilot/src/Library.Infrastructure/obj/Debug/net8.0/Library.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/JSanchez/Documentos/KC/00-GitHubCopilot/GuidedProjectApp/AccelerateDevGitHubCopilot/src/Library.Infrastructure/obj/Debug/net8.0/Library.Infrastructure.AssemblyInfoInputs.cache
+/home/JSanchez/Documentos/KC/00-GitHubCopilot/GuidedProjectApp/AccelerateDevGitHubCopilot/src/Library.Infrastructure/obj/Debug/net8.0/Library.Infrastructure.AssemblyInfo.cs
+/home/JSanchez/Documentos/KC/00-GitHubCopilot/GuidedProjectApp/AccelerateDevGitHubCopilot/src/Library.Infrastructure/obj/Debug/net8.0/Library.Infrastructure.csproj.CoreCompileInputs.cache
+/home/JSanchez/Documentos/KC/00-GitHubCopilot/GuidedProjectApp/AccelerateDevGitHubCopilot/src/Library.Infrastructure/obj/Debug/net8.0/Library.Infrastructure.sourcelink.json
+/home/JSanchez/Documentos/KC/00-GitHubCopilot/GuidedProjectApp/AccelerateDevGitHubCopilot/src/Library.Infrastructure/obj/Debug/net8.0/Library.Infrastructure.csproj.CopyComplete
+/home/JSanchez/Documentos/KC/00-GitHubCopilot/GuidedProjectApp/AccelerateDevGitHubCopilot/src/Library.Infrastructure/obj/Debug/net8.0/Library.Infrastructure.dll
+/home/JSanchez/Documentos/KC/00-GitHubCopilot/GuidedProjectApp/AccelerateDevGitHubCopilot/src/Library.Infrastructure/obj/Debug/net8.0/refint/Library.Infrastructure.dll
+/home/JSanchez/Documentos/KC/00-GitHubCopilot/GuidedProjectApp/AccelerateDevGitHubCopilot/src/Library.Infrastructure/obj/Debug/net8.0/Library.Infrastructure.pdb
+/home/JSanchez/Documentos/KC/00-GitHubCopilot/GuidedProjectApp/AccelerateDevGitHubCopilot/src/Library.Infrastructure/obj/Debug/net8.0/ref/Library.Infrastructure.dll
