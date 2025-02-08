@@ -123,5 +123,4 @@ public class JsonLoanRepository : ILoanRepository
 
 Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consulte el archivo LICENSE en el repositorio.
 
-Apolo11x: @workspace Generar contenido para el archivo readme.md de todo el repositorio de codigo actual. haga uso de  "Library App" como titulo de proyecto. el archivo readme debe contener informacion del proyecto en general como: Descripcion,  eStructuradel proyecto, Clases Principales e interfaces, como usarlas, la licencia de uso. formatee todas las secciones como un documento tipo markdown . Use etiquetas para las listas identando la estructura del proyecto. no incluya las carpetas ".gitignore" or the ".github", "bin", and "obj".
-
+@Apolo11x
