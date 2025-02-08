@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/JSanchez/Documentos/KC/00-GitHubCopilot/GuidedProjectApp/AccelerateDevGitHubCopilot/tests/UnitTests/UnitTests.csproj": {}
+  },
+  "projects": {
+    "/home/JSanchez/Documentos/KC/00-GitHubCopilot/GuidedProjectApp/AccelerateDevGitHubCopilot/src/Library.ApplicationCore/Library.ApplicationCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/JSanchez/Documentos/KC/00-GitHubCopilot/GuidedProjectApp/AccelerateDevGitHubCopilot/src/Library.ApplicationCore/Library.ApplicationCore.csproj",
+        "projectName": "Library.ApplicationCore",
+        "projectPath": "/home/JSanchez/Documentos/KC/00-GitHubCopilot/GuidedProjectApp/AccelerateDevGitHubCopilot/src/Library.ApplicationCore/Library.ApplicationCore.csproj",
+        "packagesPath": "/home/JSanchez/.nuget/packages/",
+        "outputPath": "/home/JSanchez/Documentos/KC/00-GitHubCopilot/GuidedProjectApp/AccelerateDevGitHubCopilot/src/Library.ApplicationCore/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/JSanchez/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.112/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/JSanchez/Documentos/KC/00-GitHubCopilot/GuidedProjectApp/AccelerateDevGitHubCopilot/tests/UnitTests/UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/JSanchez/Documentos/KC/00-GitHubCopilot/GuidedProjectApp/AccelerateDevGitHubCopilot/tests/UnitTests/UnitTests.csproj",
+        "projectName": "UnitTests",
+        "projectPath": "/home/JSanchez/Documentos/KC/00-GitHubCopilot/GuidedProjectApp/AccelerateDevGitHubCopilot/tests/UnitTests/UnitTests.csproj",
+        "packagesPath": "/home/JSanchez/.nuget/packages/",
+        "outputPath": "/home/JSanchez/Documentos/KC/00-GitHubCopilot/GuidedProjectApp/AccelerateDevGitHubCopilot/tests/UnitTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/JSanchez/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/JSanchez/Documentos/KC/00-GitHubCopilot/GuidedProjectApp/AccelerateDevGitHubCopilot/src/Library.ApplicationCore/Library.ApplicationCore.csproj": {
+                "projectPath": "/home/JSanchez/Documentos/KC/00-GitHubCopilot/GuidedProjectApp/AccelerateDevGitHubCopilot/src/Library.ApplicationCore/Library.ApplicationCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.112/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
